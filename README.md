@@ -1,7 +1,7 @@
 ## Descripción
 "Amigo Secreto" es una aplicación sencilla desarrollada en JavaScript, inspirada en el juego del número secreto. Permite a los usuarios ingresar nombres de amigos y, mediante un sorteo aleatorio, determinar quién será el "amigo secreto". El juego utiliza conceptos básicos como arrays, condicionales y funciones para cumplir su objetivo.
 
-![Captura de pantalla - Interfaz principal](assets/Interfaz_principal.png)  
+<img width="1056" alt="Interfaz_principal" src="https://github.com/user-attachments/assets/57cdd86b-bcd1-4476-936e-5c3556a78491" />
 
 ## Funcionalidades
 - **Ingreso de nombres:** Permite al usuario agregar nombres a través de un campo de texto.
@@ -17,9 +17,9 @@
    - Escribe el nombre de un amigo en el campo de texto.
    - Haz clic en el botón **"Añadir"** para agregar el nombre a la lista.
    - Si se ingresa un nombre inválido (vacío o con números), aparecerá un mensaje indicando que el nombre debe ser válido.
-
-   ![Captura de pantalla - Validación del campo nombre.](assets/Validacion_campo_nombre.png)
-
+   
+   <img width="832" alt="Validacion_campo_nombre" src="https://github.com/user-attachments/assets/b227142b-6862-49d1-9f49-21d4945ff6df" />
+   
 3. **Realizar el sorteo:**  
    - Una vez que hayas agregado todos los nombres deseados, haz clic en el botón **"Sortear amigo secreto"**.
    - El juego seleccionará de forma aleatoria uno de los nombres ingresados y mostrará el ganador en pantalla.
